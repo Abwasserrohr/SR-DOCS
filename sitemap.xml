@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://skyroad.me/docs/forge/minecolonies.html</loc>
+         <lastmod>2022-05-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://skyroad.me/docs/funktionen/cobblestone_generator.html</loc>
          <lastmod>2022-05-04</lastmod>
          <changefreq>daily</changefreq>
@@ -42,11 +47,6 @@
     </url>
     <url>
          <loc>https://skyroad.me/docs/funktionen/lagersystem.html</loc>
-         <lastmod>2022-05-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://skyroad.me/docs/funktionen/minecolonies.html</loc>
          <lastmod>2022-05-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
