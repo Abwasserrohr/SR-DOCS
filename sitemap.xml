@@ -116,6 +116,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://skyroad.me/docs/server/forge-server.html</loc>
+         <lastmod>2022-05-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://skyroad.me/docs/server/hub.html</loc>
          <lastmod>2022-05-04</lastmod>
          <changefreq>daily</changefreq>
