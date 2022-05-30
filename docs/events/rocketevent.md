@@ -37,11 +37,11 @@ Pro Kill bekommt man 1-3 Punkte. Stirbt man, behält man diese Punkte. Sollte ma
 | Upgrade              | Effekt                                                                         | Kosten Level   |
 |----------------------|--------------------------------------------------------------------------------|----------------|
 | Chickenspeed         | Laufgeschwindigkeit der Zeitbombe                                              | 1/4/7/10       |
-| Explosion            | Radius der Explosionen von \- Raketen \- Granaten \- Blendgranaten             | 1/4/9/16       |
+| Explosion            | Radius der Explosionen von <br/>- Raketen <br/>- Granaten <br/>- Blendgranaten             | 1/4/9/16       |
 | ExplosionProtection  | Explosionsschutz für die Rüstung                                               | 1/4/7/10       |
-| Multishot            | Multishot für Crossbow. \3 Pfeile/Raketen gleichzeitig                         | 5              |
+| Multishot            | Multishot für Crossbow. <br/>3 Pfeile/Raketen gleichzeitig                         | 5              |
 | ProjectileProtection | Projektilschutz für die Rüstung                                                | 1/4/7/10       |
-| Sharpness            | Schärfe (+3 pro Level)\ für den Crossbow für den Nahkampf                      | 1/4/9/16       |
+| Sharpness            | Schärfe (+3 pro Level)<br/> für den Crossbow für den Nahkampf                      | 1/4/9/16       |
 | Unbreaking           | Haltbarkeit für Rüstung und Armbrust.\Ohne Rüstung nimmt man sehr viel Schaden | 1/4/7/10       |
 
 Man hat nach dem Spawn in der Arena 10 Sekunden Resistenz 5, erhält also keinen Schaden. Diese Zeit sollte man nutzen, um sich zu positionieren und von seinen 2 Startpunkten Upgrades zu kaufen. Nach dem Einsatz einer Waffe, ist die Spawn Protection jedoch weg.
