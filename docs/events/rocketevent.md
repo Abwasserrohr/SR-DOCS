@@ -30,4 +30,18 @@ Die +5 soll verhindern, das Spieler einen Kill machen und dann verlassen. So wä
         Blendgranaten verursachen Blindheit für 10 Sec. in einem gewissen Radius um den Einschlag. Gut geeignet, um einen Gegner kampfunfähig zu machen bevor man ihn angreift. Trifft auch hinter Wänden.
     ![blindegrenade](https://user-images.githubusercontent.com/62308030/171037816-2f596958-fe84-4db1-8bda-7dc936732661.png)
 
+# Die Upgrades
 
+Pro Kill bekommt man 1-3 Punkte. Stirbt man, behält man diese Punkte. Sollte man weniger als 2 Punkte haben, werden die Punkte nach dem Tot auf 2 gesetzt. Diese Punkte kann man in die Folgenden Upgrade investieren kann.
+
+| Upgrade              | Effekt                                                                         | Kosten Level   |
+|----------------------|--------------------------------------------------------------------------------|----------------|
+| Chickenspeed         | Laufgeschwindigkeit der Zeitbombe                                              | 1/4/7/10       |
+| Explosion            | Radius der Explosionen von \- Raketen \- Granaten \- Blendgranaten             | 1/4/9/16       |
+| ExplosionProtection  | Explosionsschutz für die Rüstung                                               | 1/4/7/10       |
+| Multishot            | Multishot für Crossbow. \3 Pfeile/Raketen gleichzeitig                         | 5              |
+| ProjectileProtection | Projektilschutz für die Rüstung                                                | 1/4/7/10       |
+| Sharpness            | Schärfe (+3 pro Level)\ für den Crossbow für den Nahkampf                      | 1/4/9/16       |
+| Unbreaking           | Haltbarkeit für Rüstung und Armbrust.\Ohne Rüstung nimmt man sehr viel Schaden | 1/4/7/10       |
+
+Man hat nach dem Spawn in der Arena 10 Sekunden Resistenz 5, erhält also keinen Schaden. Diese Zeit sollte man nutzen, um sich zu positionieren und von seinen 2 Startpunkten Upgrades zu kaufen. Nach dem Einsatz einer Waffe, ist die Spawn Protection jedoch weg.
