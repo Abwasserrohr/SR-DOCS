@@ -3,7 +3,6 @@ Ziel ist es, möglichst viele Kills zu bekommen und dabei möglichst selten zu s
 score = kills/(tode + 5)
 Die +5 soll verhindern, das Spieler einen Kill machen und dann verlassen. So wär ihr Score sehr hoch, ohne das sie viel geleistet hätten.
 
-![image](https://user-images.githubusercontent.com/62308030/171036311-9cbf283a-a914-4b7d-b627-8d0e2f590449.png)
 
 # Das Equipment
 === "Rakete"
@@ -14,3 +13,11 @@ Die +5 soll verhindern, das Spieler einen Kill machen und dann verlassen. So wä
     !!! note ""
         Der Luftangriff beschwärt einen Bomber (Ghast) der langsam aus den Block hin fliegt, den man angeschaut hat. Dort angekommen, wirft er ca. 10 sec. TNT ab.
     ![airattack](https://user-images.githubusercontent.com/62308030/171036311-9cbf283a-a914-4b7d-b627-8d0e2f590449.png)
+=== "Granate"
+    !!! note ""
+       Die Granate fliegt nicht sehr weit und erzeugt eine Explosion bei Einschlag.
+    ![grenade](https://user-images.githubusercontent.com/62308030/171036713-caf93aba-927a-467d-8a19-03937090c6a9.png)
+=== "Zeitbombe"
+    !!! note ""
+       Die Zeitbombe erzeugt eine verfolgende Zeitbombe bei Einschlag. Sie kann auch dich verfolgen, also sei vorsichtig.
+    ![timebomb](https://user-images.githubusercontent.com/62308030/171036859-df4c7919-677b-4367-97c9-5a97d9942ca8.png)
