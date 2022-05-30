@@ -14,7 +14,7 @@
     * [Lootboxen](server/Lootboxen.md)
 * Events
     * [Bauevent](events/bauevent.md)
-    * [RocketEvent](event/Rocketevent.md)
+    * [RocketEvent](event/rocketevent.md)
 * [Jump and Run](parkour/parkour.md)
     * [Baumodus](parkour/baumodus.md)
 		* [Aktionskarten](parkour/aktionskarten.md)
