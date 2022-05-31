@@ -21,7 +21,7 @@ Die +5 soll verhindern, das Spieler einen Kill machen und dann verlassen. So wä
     ![grenade](https://user-images.githubusercontent.com/62308030/171036713-caf93aba-927a-467d-8a19-03937090c6a9.png)
 === "Zeitbombe"
     !!! note ""
-        Die Zeitbombe erzeugt eine verfolgende Zeitbombe bei Einschlag, die nach ca. 10 Sec. explodiert. Sie kann auch dich verfolgen, also sei vorsichtig.
+        Die Zeitbombe erzeugt eine verfolgende Zeitbombe bei Einschlag, die nach ca. 10 Sec. explodiert.
     ![timebomb](https://user-images.githubusercontent.com/62308030/171036859-df4c7919-677b-4367-97c9-5a97d9942ca8.png)
 === "Darts"
     !!! note ""
