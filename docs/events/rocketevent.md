@@ -25,12 +25,18 @@ Die +5 soll verhindern, das Spieler einen Kill machen und dann verlassen. So wä
     ![timebomb](https://user-images.githubusercontent.com/62308030/171036859-df4c7919-677b-4367-97c9-5a97d9942ca8.png)
 === "Darts"
     !!! note ""
-        Darts sind Pfeile, die bei Gegner schaden verursachen und ihm 10 Sec. Blindheit geben. Gut geeignet, um einen Gegner kampfunfähig zu machen bevor man ihn angreift.
+        Darts sind Pfeile, die bei Gegner schaden verursachen und ihm 10 Sec. Blindheit geben. Gut geeignet, um einen Gegner kampfunfähig zu machen bevor man ihn angreift. Zudem kann der Crossbow sie deutlich schneller feuern als Raketen.
     ![darts](https://user-images.githubusercontent.com/62308030/171037237-e35f149b-6fdc-4195-b97b-bf3fccb8afce.png)
 === "Blendgranate"
     !!! note ""
         Blendgranaten verursachen Blindheit für 10 Sec. in einem gewissen Radius um den Einschlag. Gut geeignet, um einen Gegner kampfunfähig zu machen bevor man ihn angreift. Trifft auch hinter Wänden.
     ![blindegrenade](https://user-images.githubusercontent.com/62308030/171037816-2f596958-fe84-4db1-8bda-7dc936732661.png)
+=== "Streitaxt"
+    !!! note ""
+        Die Streitaxt verursacht mit jedem Schlag mehr schaden und man bekommt immer mehr Schnelligkeit. Jedoch bekommt man selbst auch durch sie immer mehr Schaden. Das eigene Leben fällt dadurch jedoch nicht unter 4 (2 Herzen).
+    ![streitaxt](https://user-images.githubusercontent.com/62308030/179012365-a07bb08c-f0bd-4187-a7fa-d8b81be2678d.png)
+
+
 
 # Die Upgrades
 
@@ -46,4 +52,4 @@ Pro Kill bekommt man 1-3 Punkte. Stirbt man, behält man diese Punkte. Sollte ma
 | Sharpness            | Schärfe (+3 pro Level)<br/> für den Crossbow für den Nahkampf                      | 1/4/9/16       |
 | Unbreaking           | Haltbarkeit für Rüstung und Armbrust.<br/>Ohne Rüstung nimmt man sehr viel Schaden | 1/4/7/10       |
 
-Man hat nach dem Spawn bzw. Respawn in der Arena 10 Sekunden Resistenz 5, erhält also keinen Schaden. Diese Zeit sollte man nutzen, um sich zu positionieren und von seinen 2 Startpunkten Upgrades zu kaufen. Nach dem Einsatz einer Waffe, ist die Spawn Protection jedoch weg.
+Man hat nach dem Spawn bzw. Respawn in der Arena 10 Sekunden Resistenz 5, erhält also keinen Schaden. Diese Zeit sollte man nutzen, um sich zu positionieren um nicht direkt getötet zu werden. Nach dem Einsatz einer Waffe, wird die Spawn Protection jedoch entfernt.
