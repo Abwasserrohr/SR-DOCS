@@ -21,6 +21,7 @@ extra:
     citybuild_buyweather_thunder_price: 1000
 
 theme:
+  font: false
   name: material
   language: de
   custom_dir: docs/home_theme/
