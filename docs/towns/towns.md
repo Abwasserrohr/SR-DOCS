@@ -1,7 +1,7 @@
 
 
 !!! info inline end ""
-    ![Altenburg](https://files.steempeak.com/file/steempeak/skyroad-wiki/bRVgahRK-altenburg.png)
+    ![Altenburg](/assets/images/altenburg.png)
     Der Stadtspawn der Stadt Altenburg im Creative.
    
 Spieler auf Skyroad können im Survival und Freebuild eigene Städte erstellen. Städte erlauben eine Sicherung vor Griefern und Plünderern, die es auf wertvolle Blöcke abgesehen haben.
@@ -27,7 +27,7 @@ Neben einer Sicherung für sich selbst, können Städte in vermietbare Grundstü
 ## 2. Selbst eine eigene Stadt erstellen
 #### 2.1 Erste Schritte
 
-![Wildnis](https://files.steempeak.com/file/steempeak/skyroad-wiki/OeCul5ze-freiesland.png)
+![Wildnis](/assets/images/citybuild_wildnis.png)
 
 !!! tip
     Ein optimaler Ort ist eine weitesgehend unbearbeitete Landschaft, bei der es keinen Spieler oder eine Stadt gibt, die das Land für sich beanspruchen.
@@ -42,7 +42,7 @@ Neben einer Sicherung für sich selbst, können Städte in vermietbare Grundstü
   
 #### 2.2 Berechtigungen einstellen und Stadt öffentlich machen
 1. Damit nur der Bürgermeister überall in der Stadt abbauen kann, sollten die Rechte allgemein entfernt werden, dies ist mit `/town set perm reset` und `/town set perm off` sehr einfach.
-<div class="pull-right"><a href="https://files.steempeak.com/file/steempeak/skyroad-wiki/D29Ri5kl-townsetting.png"><img src="https://files.steempeak.com/file/steempeak/skyroad-wiki/D29Ri5kl-townsetting.png"/></a></div>
+<div class="pull-right"><a href="/assets/images/towny_settings.png"><img src="/assets/images/towny_settings.png"/></a></div>
 2. Jetzt sollten bei `/town` unter **Permissions** oder **Rechte** alle Einstellungen auf `---` stehen. Siehe Bild.
 3. Da die Stadt nun sicher ist, kann sie für andere Spieler geöffnet werden, gib dafür `/town toggle open` ein. Sofern im Chat steht "Inviteless joining is now Enabled", ist die Stadt nun offen. Die Warnung kann ignoriert werden, da bereits alle Maßnahmen zur Sicherung der Stadt vorgenommen wurden, falls etwas anderes im Chat steht, kann es sein, dass die Meldung auf Deutsch ausgegeben wurde. Um zu überprüfen, ob die Stadt wirklich für jeden zugänglich ist, kann man mit `/t list` seine Stadt suchen, diese sollte mit **[Open]** oder **[Offen]** gekennzeichnet sein. Sollte dies nicht der Fall sein, gib einfach erneut `/town toggle open` ein und versuche es erneut. Spieler können nun mit `/town join Stadtname` beitreten.
 4. Sofern die Berechtigungen in den letzten drei Schritten entfernt wurden, ist es Einwohnern deiner Stadt ist es nicht möglich, zu bauen oder abzubauen, daher sollten folgend sogenannte **Plots / Grundstücke** eingerichtet werden. Diese sind immer einen Chunk groß, welcher immer genau 16x16 Blöcke groß ist. Mit der Tastenkombination **F3** und gleichzeitig **G** kann man die Chunks sehen, mit gleicher Kombination lässt sich die Ansicht auch wieder abschalten.
