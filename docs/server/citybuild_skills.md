@@ -1,6 +1,6 @@
 
 !!! info inline end ""
-    ![Skillmeister](https://files.steempeak.com/file/steempeak/skyroad-wiki/Ye61I2zf-2019-12-18_15.04.45.png)
+    ![Skillmeister](/assets/images/villager_citybuild.png)
     Hier ist der Skillmeister des Survivals sichtbar, er ist einer der vier Dorfbewohner, die man direkt in der Spawnburg finden kann.
 
 Im Citybuild ist es Spielern möglich, Fertigkeiten zu nutzen, die einem im Alltag helfen können. Meistens erhöhen diese den Ertrag und verringern die benötigte Zeit, um an Ressourcen zu kommen.
