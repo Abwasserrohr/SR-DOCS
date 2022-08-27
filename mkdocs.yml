@@ -101,6 +101,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
-  - https://skyroad.me/assets/plyr.js
+  - assets/plyr.js
   - javascripts/mathjax.js
-  - https://skyroad.me/assets/tex-mml-chtml.js
+  - assets/tex-mml-chtml.js
