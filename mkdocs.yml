@@ -68,6 +68,8 @@ plugins:
         introduction.md: index.md
 
 markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
   - admonition
   - pymdownx.details
   - attr_list
@@ -100,3 +102,5 @@ markdown_extensions:
 
 extra_javascript:
   - https://skyroad.me/assets/plyr.js
+  - javascripts/mathjax.js
+  - https://skyroad.me/assets/tex-mml-chtml.js
