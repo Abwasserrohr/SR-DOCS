@@ -1,6 +1,6 @@
 # Ziel des Rocketevents
 Ziel ist es, möglichst viele Kills zu bekommen und dabei möglichst selten zu sterben. Der Score ergibt sich dabei nach:
-$$score=10\cdot\fraq{kills*kills}{deaths+5}$$
+$$score=10\cdot\frag{kills*kills}{deaths+5}$$
 
 This expression $\sum_{i=1}^n X_i$ is inlined.
 
