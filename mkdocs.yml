@@ -98,4 +98,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
-  - https://cdn.plyr.io/3.6.8/plyr.js
+  - https://abwasserrohr.github.io/SR-DOCS/assets/plyr.js
