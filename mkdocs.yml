@@ -42,8 +42,8 @@ theme:
         name: Wechsle in den hellen Modus
   icon:
     repo: fontawesome/brands/github
-  favicon: https://skyroad.me/wp-content/uploads/2021/02/cropped-skyroadlogosmaall-2-32x32.png
-  logo: https://skyroad.me/wp-content/uploads/2021/02/cropped-skyroadlogosmaall.png
+  favicon: https://skyroad.me/assets/images/skyroadlogosmall.png
+  logo: https://skyroad.me/assets/images/skyroadlogosmall.png
   features:
     - navigation.tabs
 
