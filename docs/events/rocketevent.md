@@ -1,6 +1,9 @@
 # Ziel des Rocketevents
 Ziel ist es, möglichst viele Kills zu bekommen und dabei möglichst selten zu sterben. Der Score ergibt sich dabei nach:
-$$score = 10 \cdot \frac{kills \cdot kills}{deaths + 5}$$
+
+
+$score = 10 \cdot \frac{kills \cdot kills}{deaths + 5}$
+
 
 Die +5 soll verhindern, das Spieler einen Kill machen und dann verlassen. So wär ihr Score sehr hoch, ohne das sie viel geleistet hätten.
 
