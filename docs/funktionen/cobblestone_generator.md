@@ -1,13 +1,17 @@
 Es gibt 2 Formen von Generatoren: Den Overworld- und den Nether-Generator. Wie man sie baut ist in den folgenden Abbildungen zu sehen.
 
-=== "Overworld-Generator"
+=== "Bruchstein-Generator"
     !!! note ""
-        Der Overworld-Generator ist ein Bruchsteingenerator und produziert primär Resourcen, die man auch in der Overworld finden kann.
+        Der Bruchstein-Generator ist ein Bruchsteingenerator und produziert primär Resourcen, die man auch in der Overworld finden kann.
     ![Bruchstein_Generator](../assets/images/oreGen/Bruchstein_Generator.png)
 === "Nether-Generator"
     !!! note ""
         Der Nether-Generator ein Basalt Generator und produziert primär Resourcen, die man auch im Nether finden kann. 
     ![Basalt_Generator](../assets/images/oreGen/Basalt_Generator.png)
+=== "Deepslate-Generator"
+    !!! note ""
+        Wird der Bruchstein-Generator unter Höhe 0 errichtet, so produziert er Deepslate und Deepslate Erze und ähnliches. Zudem ist die Chance für Diamanterz größer.
+    ![Bruchstein_Generator](../assets/images/oreGen/Bruchstein_Generator.png)
 
 Der Stein-Generator wird nicht beeinflusst und kann so genutzt werden um Stein und Bruchstein zum Bauen zu produzieren, wenn man das möchte.
 
