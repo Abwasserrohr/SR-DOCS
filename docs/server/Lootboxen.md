@@ -2,12 +2,10 @@ Lootboxen sind Items die durch das Voten erhalten werden können. Sie treten in 
 
 | Level | Chance  |
 |-------|---------|
-| 1     | 84.65 % |
-| 2     | 14.98 % |
-| 3     |  0.35 %  |
-| 4     |  0.008 % |
-
-
+| 1     | 90 % |
+| 2     | 9 % |
+| 3     |  0.9 %  |
+| 4     |  0.1 % |
 
 ## Level 1 Lootbox
 Die Level 1 Lootbox enthält haupsächlich Baumaterialien.
