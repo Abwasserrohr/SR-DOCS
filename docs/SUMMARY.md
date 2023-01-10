@@ -33,7 +33,7 @@
   - [Forge Server](server/forge.md)
     - [Regeln](regeln/forge.md)
     - [test](forge/Modpack_installation.md)
-    - [Modpack installation](forge/Modpack_installation.md)
+<!--    - [Modpack installation](forge/Modpack_installation.md)-->
 
 - [Unser Team](team/mitglieder.md)
   - [Support](team/ticket.md)
