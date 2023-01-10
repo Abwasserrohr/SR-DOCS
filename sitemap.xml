@@ -96,17 +96,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://skyroad.me/docs/regeln/Creativ.html</loc>
-         <lastmod>2023-01-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://skyroad.me/docs/regeln/allgemein.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://skyroad.me/docs/regeln/citybuild.html</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skyroad.me/docs/regeln/creativ.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -177,6 +177,11 @@
     </url>
     <url>
          <loc>https://skyroad.me/docs/server/skyblock.html</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skyroad.me/docs/server/survival.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
