@@ -21,13 +21,13 @@
     - [Lootboxen](server/Lootboxen.md)
   - [Survival](server/survival.md)
     - [Regeln](regeln/survival.md)
-<!--
-  - [Creativ](server/creativ.md)
-    - [Regeln](regeln/creativ.md)
+  - [Creativ](server/creative.md)
+    - [Regeln](regeln/creative.md)
     - [Städte](towns/towns.md)
   - Events
     - [Bauevent](events/bauevent.md)
     - [RocketEvent](events/rocketevent.md)
+<!--
   - [Jump and Run](parkour/parkour.md)
     - [Baumodus](parkour/baumodus.md)
     - [Aktionskarten](parkour/aktionskarten.md)
