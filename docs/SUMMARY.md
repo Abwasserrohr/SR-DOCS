@@ -23,7 +23,7 @@
     - [Creativ](server/creative.md)
       - [Regeln](regeln/creative.md)
       - [Städte](towns/towns.md)
-    - Events
+    - [Events](server/events.md)
       - [Bauevent](events/bauevent.md)
       - [RocketEvent](events/rocketevent.md)
     - [Jump and Run](parkour/parkour.md)
