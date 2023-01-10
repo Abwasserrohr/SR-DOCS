@@ -27,5 +27,4 @@
   - [Modpack installation](forge/Modpack_installation.md)
   - [Minecolonies](forge/minecolonies.md)
 - [Unser Team](team/mitglieder.md)
-  - Support
-    - [Ticket](team/ticket.md)
+  - [Support](team/ticket.md)
