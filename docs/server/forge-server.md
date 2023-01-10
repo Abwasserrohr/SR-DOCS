@@ -1,2 +1,4 @@
 Auf dem Forgeserver werden wechselnd Modpacks angeboten. Es werden jeweils 3 Monate pro Modpack angepeilt, das hängt aber von dem Interesse der Spieler ab. Haben noch viele Spieler Spaß am aktuellen Modpack, so wird es weiterhin aufrecht erhalten. Zum Schluss wird nur ein Back-Up erhalten. Es ist geplant, das Back-Up/die Finale Version der Welt zur verfügung zu stellen, falls jemand im Single Player oder auf einem eigenen Server mit dem Modpack weiter spielen will.
 Die Modpacks werden vom Team zusammengestellt. Anregungen dafür können gern im Discord-Server unter #Feedback oder in einem Ticket gegeben werden. Falls sich die Vorschläge häufen, wird es wahrscheinlich auch einen eigenen Kanal dafür geben.
+
+Aktuell ist der Forge Server aufgrund mangelnder Aktivität auf dem Server down. Habt ihr interesse an einem Modpack und wollt es bei uns spielen, meldet euch gern via Discord bei uns.
