@@ -1,4 +1,6 @@
 ## Skyroad Minecraft Server & Discord - Regeln
+**Die Kurzvariante: Bahandele andere so, wie du behandelt werden willst.**
+
 - Keine Fremdwerbung
      - Werben für andere Minecraft Server ist nicht erlaubt.
      - Jede andere Werbung ist ebenfalls verboten, außer in dafür vorgesehenen Kanälen. Keiner will Werbung & Co. im Chat. 
@@ -32,12 +34,4 @@
 - Das Deutsche Gesetz ist zu beachten
      - Halte dich an die Gesetze unseres Serverstandorts: https://www.bundestag.de/grundgesetz 
 
-- Genaueres Regeln die einzelnen Server:
-     - Survival
-     - Skyblock
-     - Citybuild
-     - Jump'n'Run
-     - Bauevent
-     - Tower Defense
-     - Creativ
-     - Mini Games
+- Die einzelnen Server legen weitere spezifische Regeln fest
