@@ -27,7 +27,6 @@
   - Events
     - [Bauevent](events/bauevent.md)
     - [RocketEvent](events/rocketevent.md)
-<!--
   - [Jump and Run](parkour/parkour.md)
     - [Baumodus](parkour/baumodus.md)
     - [Aktionskarten](parkour/aktionskarten.md)
@@ -36,6 +35,6 @@
     - [Regeln](regeln/forge.md)
     - [Modpack installation](forge/Modpack_installation.md)
     - [Minecolonies](forge/minecolonies.md)
--->
+
 - [Unser Team](team/mitglieder.md)
   - [Support](team/ticket.md)
