@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://skyroad.me/docs/regeln/citybuild.html</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://skyroad.me/docs/regeln/skyblock.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
