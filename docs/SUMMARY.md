@@ -27,16 +27,17 @@
   - Events
     - [Bauevent](events/bauevent.md)
     - [RocketEvent](events/rocketevent.md)
+<!--
   - [Forge Server](server/forge-server.md)
     - [Regeln](regeln/forge.md)
     - [Modpack installation](forge/Modpack_installation.md)
     - [Minecolonies](forge/minecolonies.md)
- <!--
+-->
   - [Jump and Run](parkour/parkour.md)
     - [Baumodus](parkour/baumodus.md)
     - [Aktionskarten](parkour/aktionskarten.md)
     - [Spielmodus](parkour/spielmodus.md)
--->
+
 
 - [Unser Team](team/mitglieder.md)
   - [Support](team/ticket.md)
