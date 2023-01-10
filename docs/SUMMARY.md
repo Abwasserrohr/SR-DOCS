@@ -32,7 +32,8 @@
     - [Spielmodus](parkour/spielmodus.md)
   - [Forge Server](server/forge.md)
     - [Regeln](regeln/forge.md)
-    - [Modpack installation](forge/Modpack_installation.md)
     - [test](forge/Modpack_installation.md)
+    - [Modpack installation](forge/Modpack_installation.md)
+
 - [Unser Team](team/mitglieder.md)
   - [Support](team/ticket.md)
