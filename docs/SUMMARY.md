@@ -34,6 +34,5 @@
     - [Regeln](regeln/forge.md)
     - [Modpack installation](forge/Modpack_installation.md)
     - [Minecolonies](forge/minecolonies.md)
-
 - [Unser Team](team/mitglieder.md)
   - [Support](team/ticket.md)
