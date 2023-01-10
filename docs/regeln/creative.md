@@ -1,5 +1,5 @@
 Es gelten die allgemeinen Skyroad Minecraft Server & Discord - Regeln
-## Creativ Regeln
+## Creative Regeln
 - Nicht griefen
      - Griefe und Bestiel keine Gebäude und Spieler in gesicherten Bereichen. 
      - Außerhalb gesicherte Bereiche, dürfen Wertgegenstände genommen und Wertvolle Blöcke abgebaut werden. 
