@@ -15,6 +15,7 @@
   - [Regeln](regeln/survival.md)
 - [Creativ](server/creativ.md)
   - [Regeln](regeln/creativ.md)
+  - [Städte](towns/towns.md)
 - Events
   - [Bauevent](events/bauevent.md)
   - [RocketEvent](events/rocketevent.md)
