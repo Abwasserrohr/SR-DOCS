@@ -176,6 +176,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://skyroad.me/docs/server/liste.html</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://skyroad.me/docs/server/skyblock.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
