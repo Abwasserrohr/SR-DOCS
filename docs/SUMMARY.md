@@ -5,7 +5,7 @@
   - [Survival](regeln/survival.md)
   - [Creativ](regeln/creativ.md)
   - [Forge](regeln/forge.md)
-<!--
+
 - Server
   - [Citybuild](server/citybuild.md)
     - [Regeln](regeln/citybuild.md)
@@ -21,6 +21,7 @@
     - [Lootboxen](server/Lootboxen.md)
   - [Survival](server/survival.md)
     - [Regeln](regeln/survival.md)
+<!--
   - [Creativ](server/creativ.md)
     - [Regeln](regeln/creativ.md)
     - [Städte](towns/towns.md)
