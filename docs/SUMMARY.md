@@ -5,7 +5,6 @@
   - [Survival](regeln/survival.md)
   - [Creativ](regeln/creativ.md)
   - [Forge](regeln/forge.md)
-
 - Server
   - [Citybuild](server/citybuild.md)
     - [Regeln](regeln/citybuild.md)
@@ -31,12 +30,9 @@
     - [Baumodus](parkour/baumodus.md)
     - [Aktionskarten](parkour/aktionskarten.md)
     - [Spielmodus](parkour/spielmodus.md)
-<!--  - [Forge Server](server/forge-server.md)
+  - [Forge Server](server/forge-server.md)
     - [Regeln](regeln/forge.md)
     - [Modpack installation](forge/Modpack_installation.md)
-    - [Minecolonies](forge/minecolonies.md)-->
-
-
-
+    - [Minecolonies](forge/minecolonies.md)
 - [Unser Team](team/mitglieder.md)
   - [Support](team/ticket.md)
