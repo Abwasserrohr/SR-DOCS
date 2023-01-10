@@ -5,7 +5,7 @@
   - [Survival](regeln/survival.md)
   - [Creativ](regeln/creativ.md)
   - [Forge](regeln/forge.md)
-- [Server]
+- Server
   - [Citybuild](server/citybuild.md)
     - [Regeln](regeln/citybuild.md)
     - [Städte](towns/towns.md)
