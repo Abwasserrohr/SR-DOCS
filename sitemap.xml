@@ -36,11 +36,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://skyroad.me/docs/forge/regeln.html</loc>
-         <lastmod>2023-01-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://skyroad.me/docs/funktionen/cobblestone_generator.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
@@ -107,6 +102,11 @@
     </url>
     <url>
          <loc>https://skyroad.me/docs/regeln/creativ.html</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skyroad.me/docs/regeln/forge.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
