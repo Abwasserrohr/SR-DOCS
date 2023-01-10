@@ -96,6 +96,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://skyroad.me/docs/regeln/allgemein.html</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://skyroad.me/docs/server/Lootboxen.html</loc>
          <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
