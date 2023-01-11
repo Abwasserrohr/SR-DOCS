@@ -6,18 +6,22 @@ Hier findest du die aktuellen Teammitglieder auf Skyroad.
 | Skin | Spielername | Position |
 | :--- | :--- | :--- |
 | ![](assets/images/heads/Abwasserrohr_Kopf.png) | Abwasserrohr | Operator |
-| ![](assets/images/heads/Flyerchen_Kopf.png) | Flyerchen | Survival Administrator |
 | ![](assets/images/heads/Almighty_Anubis_Kopf.png) | Almighty_Anubis | SkyBlock Administrator |
+| ![](assets/images/heads/Krippi_Kopf.png) | Krippi | Developer |
+|  | Samy2745 | Supporter in Probezeit |
+|  | Cyborg | Builder |
+|  | Guzz | Builder |
+## 2. Ehemalige Teammitglieder
+
+| Skin | Spielername | Position |
+| :--- | :--- | :--- |
+| ![](assets/images/heads/Flyerchen_Kopf.png) | Flyerchen | Survival Administrator |
 | ![](assets/images/heads/Krippi_Kopf.png) | Krippi | Developer |
 | ![](assets/images/heads/Daniel_1111_Kopf.png) | Daniel_1111 | Moderator (Testphase) |
 | ![](assets/images/heads/Trentox_Kopf.png) | Trentox | Social Media |
 | ![](assets/images/heads/Cal_Gordun_Kopf.png) | Cal_Gordun | Builder |
 | ![](assets/images/heads/MountnDewd_Kopf.png) | MountnDewd | Builder |
 |  | Grauhaarsalat | Supporter |
-## 2. Ehemalige Teammitglieder
-
-| Skin | Spielername | Position |
-| :--- | :--- | :--- |
 | ![](assets/images/heads/Altonos_Kopf.png) | Altonos | SV Administrator |
 | ![](assets/images/heads/ViperUnity_Kopf.png) | ViperUnity | Support |
 | ![](assets/images/heads/DasFlyingRobin_Kopf.png) | DasFlyingRobin | Support |
